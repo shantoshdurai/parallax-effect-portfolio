@@ -1,6 +1,5 @@
-# Portfolio Website
+# Portfolio Website to try the new effect i thought about w a help of youtube tutorials
 
-Welcome to my personal portfolio website! This project showcases my work, skills, and experience as a developer.
 
 ## 📋 Table of Contents
 - [About](#about)
@@ -11,22 +10,7 @@ Welcome to my personal portfolio website! This project showcases my work, skills
 - [Contact](#contact)
 
 ## 📖 About
-This is a responsive portfolio website designed to present my professional profile, projects, and contact information in an elegant and user-friendly manner.
-
-## ✨ Features
-- Clean and modern design
-- Fully responsive layout
-- Easy navigation
-- Project showcase section
-- Contact information
-- Optimized performance
-
-## 🛠️ Technologies Used
-- **HTML5** - Structure and content
-- **CSS3** - Styling and animations
-- **JavaScript** - Interactivity (if applicable)
-
-## 🚀 Getting Started
+This is a responsive portfolio website designed to present my professional profile,
 
 ### Prerequisites
 - A modern web browser (Chrome, Firefox, Safari, or Edge)
